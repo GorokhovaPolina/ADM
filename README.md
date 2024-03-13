@@ -8,6 +8,8 @@
 
 ### Примеры работы кода: 
 - Для смежного представления:
+
 ![Снимок экрана 2024-03-13 в 17 06 42](https://github.com/GorokhovaPolina/ADM/assets/128795394/df55e61a-d623-4090-9a4e-a01aaf4dd9cd)
 - Для связного представления:
+
 ![Снимок экрана 2024-03-13 в 17 08 07](https://github.com/GorokhovaPolina/ADM/assets/128795394/e5fb5411-6b3f-4b83-bf83-63e6f7b406bf)
